@@ -1,0 +1,17 @@
+export const LeagueConstants: { [key: number]: string } = {
+  4335: "Ngoại hạng Anh",
+  4336: "Bundesliga",
+  4314: "UEFA Champions League",
+  4377: "League Cup",
+  4303: "DFB Pokal",
+  4347: "Ligue 1",
+  4260: "UEFA Nations League",
+  4472: "Coppa Italia",
+  4530: "FA Cup",
+  4584: "UEFA Europa League",
+  4827: "Copa del Rey",
+  4854: "Coupe de France",
+  4976: "V.League 1",
+  4378: "La Liga",
+  4399: "Serie A",
+};
